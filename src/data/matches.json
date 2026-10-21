@@ -1,0 +1,626 @@
+[
+  {
+    "date": "2026-04-25T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Ivan Miranda", "result": 0 },
+      { "name": "Rodrigo Muzzi", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-04-25T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Paulo Rocha", "result": 1 },
+      { "name": "João Pedro", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-04-25T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Felipe Beorn", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-04-25T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-04-25T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Felipe Beorn", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-04-25T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "João Pedro", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-04-25T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-04-25T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "João Pedro", "result": 0 },
+      { "name": "Felipe Beorn", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-04-25T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 0 },
+      { "name": "Rodrigo Muzzi", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-07-25T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-07-25T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "João Pedro", "result": 0 },
+      { "name": "Raphael Vianna", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-07-25T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Paulo Rocha", "result": 0 },
+      { "name": "Guilherme Vieira", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-07-25T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 0 },
+      { "name": "Rodrigo Muzzi", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-07-25T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Raphael Vianna", "result": 0 },
+      { "name": "Ivan Miranda", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-07-25T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Paulo Rocha", "result": 1 },
+      { "name": "João Pedro", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-07-25T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-07-25T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "João Pedro", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-07-25T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Raphael Vianna", "result": 0 },
+      { "name": "Guilherme Vieira", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-10-17T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "João Pedro", "result": 0 },
+      { "name": "Mateus Oliveira", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-10-17T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Bruno Scaramussa", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-10-17T11:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Rafael Gripp", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-10-17T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Mateus Oliveira", "result": 0 },
+      { "name": "Rafael Gripp", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-10-17T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 0 },
+      { "name": "Ivan Miranda", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-10-17T13:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "João Pedro", "result": 0 },
+      { "name": "Bruno Scaramussa", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-10-17T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 0 },
+      { "name": "João Pedro", "result": 1 }
+    ]
+  },
+  {
+    "date": "2026-10-17T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Mateus Oliveira", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-10-17T15:00",
+    "game": "MESBG",
+    "players": [
+      { "name": "Rafael Gripp", "result": 1 },
+      { "name": "Bruno Scaramussa", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Lucas Fiuza", "result": 0 },
+      { "name": "Rodrigo Muzzi", "result": 1 }
+    ]
+  },
+  {
+    "date": "2025-09-13T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Heitor Sales", "result": 1 },
+      { "name": "Rafhael Josino", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Rafael Gripp", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Heitor Sales", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Helio Januzzi", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafael Gripp", "result": 1 },
+      { "name": "Lucas Fiuza", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Helio Januzzi", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Heitor Sales", "result": 1 },
+      { "name": "Lucas Fiuza", "result": 0 }
+    ]
+  },
+  {
+    "date": "2025-09-13T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafhael Josino", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafael Gripp", "result": 1 },
+      { "name": "Marcus Silva", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Helio Januzzi", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafael Melo", "result": 0.5 },
+      { "name": "Heitor Sales", "result": 0.5 }
+    ]
+  },
+  {
+    "date": "2026-02-28T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Lucas Fiuza", "result": 1 },
+      { "name": "Denis Lobo", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Paulo Rocha", "result": 1 },
+      { "name": "Diogo Gouthier", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Lucas Fiuza", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Marcus Silva", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Helio Januzzi", "result": 1 },
+      { "name": "Heitor Sales", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Rafael Gripp", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafael Melo", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Denis Lobo", "result": 1 },
+      { "name": "Diogo Gouthier", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Rodrigo Muzzi", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Marcus Silva", "result": 1 },
+      { "name": "Rafael Melo", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Helio Januzzi", "result": 1 },
+      { "name": "Lucas Fiuza", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Heitor Sales", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-02-28T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Diogo Gouthier", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafael Gripp", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Marcus Vinicius", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Lucas Fiuza", "result": 1 },
+      { "name": "Denis Lobo", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Helio Januzzi", "result": 1 },
+      { "name": "Heitor Sales", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Guilherme Vieira", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafael Gripp", "result": 1 },
+      { "name": "Heitor Sales", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Lucas Fiuza", "result": 1 },
+      { "name": "Helio Januzzi", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Marcus Silva", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Lucas Fiuza", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rafael Gripp", "result": 1 },
+      { "name": "Helio Januzzi", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-05-30T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Heitor Sales", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-08-29T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-08-29T11:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Henrique Barbosa", "result": 1 },
+      { "name": "João Pedro", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-08-29T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Guilherme Vieira", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-08-29T13:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "João Pedro", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-08-29T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Rodrigo Muzzi", "result": 1 },
+      { "name": "Ivan Miranda", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-08-29T15:00",
+    "game": "Kill Team",
+    "players": [
+      { "name": "Guilherme Vieira", "result": 1 },
+      { "name": "João Pedro", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-06-11T11:00",
+    "game": "OPR",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Mateus Morais", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-06-11T11:00",
+    "game": "OPR",
+    "players": [
+      { "name": "Felipe Beorn", "result": 1 },
+      { "name": "Helio Januzzi", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-06-13T11:00",
+    "game": "OPR",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Felipe Beorn", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-06-13T11:00",
+    "game": "OPR",
+    "players": [
+      { "name": "Paulo Rocha", "result": 1 },
+      { "name": "Mateus Morais", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-06-13T11:00",
+    "game": "OPR",
+    "players": [
+      { "name": "Ivan Miranda", "result": 1 },
+      { "name": "Paulo Rocha", "result": 0 }
+    ]
+  },
+  {
+    "date": "2026-06-13T11:00",
+    "game": "OPR",
+    "players": [
+      { "name": "Mateus Morais", "result": 1 },
+      { "name": "Felipe Beorn", "result": 0 }
+    ]
+  }
+]
