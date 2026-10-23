@@ -162,8 +162,8 @@ body {
 
 .rank-grid {
   display: grid;
-  gap: 1.25rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+  gap: 1.5rem;
+  grid-template-columns: 1fr;
 }
 
 .rank-panel {

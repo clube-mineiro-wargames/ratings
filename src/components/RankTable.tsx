@@ -23,6 +23,10 @@ export function RankTable({ game, players }: RankTableProps) {
                 <th scope="col">Jogador</th>
                 <th scope="col">Rating</th>
                 <th scope="col">Jogos</th>
+                <th scope="col">Vitórias</th>
+                <th scope="col">Derrotas</th>
+                <th scope="col">Empates</th>
+                <th scope="col">% Vitória</th>
               </tr>
             </thead>
             <tbody>
@@ -32,6 +36,10 @@ export function RankTable({ game, players }: RankTableProps) {
                   <td>{player.name}</td>
                   <td className="rating-cell">{player.rating}</td>
                   <td>{player.played}</td>
+                  <td>{player.wins}</td>
+                  <td>{player.losses}</td>
+                  <td>{player.draws}</td>
+                  <td>{player.winRate}%</td>
                 </tr>
               ))}
             </tbody>

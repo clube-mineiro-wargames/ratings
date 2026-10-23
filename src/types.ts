@@ -28,4 +28,8 @@ export interface PlayerRating {
   name: string;
   rating: number;
   played: number;
+  wins: number;
+  losses: number;
+  draws: number;
+  winRate: number;
 }
